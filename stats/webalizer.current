@@ -1,0 +1,164 @@
+# Webalizer V2.23-05 Incremental Data - 12/26/2016 22:13:42
+2016 12 26 22 13 42
+25 15 1 14 4 4 114551 7 7 0 0 0
+1 2 16 1 26
+2 0 2069 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+2 0 2069 1 1 1 0 0
+2 0 2069 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+13 13 102189 1 1 1 0 0
+0 0 0 0 0 0 0 0
+2 1 2403 1 1 1 0 0
+2 1 1683 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+2 0 2069 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 2403 1 0 0
+2 0 2069 1 0 0
+13 13 102189 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 1683 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 0 4138 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 0 2069 1 0 0
+0 0 0 0 0 0
+0
+0
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+# -urls- 
+/js/bootstrap-treeview.min.js
+0 1 0 4203 0 0 0 0
+/css/bootstrap-treeview.min.css
+0 1 0 443 0 0 0 0
+/js/sco_node_debug.js
+0 1 0 1020 0 0 0 0
+/js/bootstrap.min.js
+0 1 0 10083 0 0 0 0
+/js/sco_node_datamodel.js
+0 1 0 10313 0 0 0 0
+/js/flash_detect.js
+0 1 0 2020 0 0 0 0
+/favicon.ico
+0 2 0 4106 0 0 0 0
+/css/bootstrap.min.css
+0 1 0 20056 0 0 0 0
+/player/play/fdf925b777467ca00e4a0e29f82c38e2
+0 1 0 1589 1 1 0 0
+/webroot/scormdata/6073e3733435bd66d33ee5d70cb87bf5/test.html
+0 1 0 403 1 1 0 0
+/fonts/glyphicons-halflings-regular.woff2
+0 1 0 18262 0 0 0 0
+/js/sco_node_api_1_2.js
+0 1 0 1617 0 0 0 0
+/css/player.css
+0 1 0 678 0 0 0 0
+/js/jquery-2.1.4.min.js
+0 1 0 29852 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+127.0.0.1
+0 25 15 114551 7 1482790422 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+127.0.0.1
+0 2 0 2069 1 1482790422 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://scorm.academy-smart.org.ua/css/bootstrap.min.css
+1 1
+http://scorm.academy-smart.org.ua/player/coursesStarted/2/68ac728a3a9686020674a6e614e2d7e3
+1 1
+- (Direct Request)
+0 12
+http://scorm.academy-smart.org.ua/player/play/fdf925b777467ca00e4a0e29f82c38e2
+1 11
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 2
+Mozilla/5.0 (X11; CrOS x86_64 8743.85.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.101 Safari/537.36
+0 13
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 9
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B411 Safar
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
